@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Priscilla Ejiro
 - 👀 I’m interested in traveling and photography
-- 🌱 I’m currently learning Data Science at the University of Roehampton
+- 🌱 I’m currently studying Data Science at the University of Roehampton
 - 💞️ I’m looking to collaborate on web development projects
 
 <!---
