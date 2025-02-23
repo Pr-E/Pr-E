@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Priscilla Ejiro
 - 👀 I’m interested in traveling and photography
-- 🌱 I’m currently studying Data Science at the University of Roehampton
-- 💞️ I’m looking to collaborate on web development projects
+- 🌱 Fresh graduate - MSc. Data Science (Distinction) from UOR
+- 💞️ I’m looking to collaborate on Data Science/Analytics projects in any field. I'm open to anything!
+- X
 
 <!---
 Pr-E/Pr-E is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
